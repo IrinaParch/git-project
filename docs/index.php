@@ -1,3 +1,4 @@
 <?php
-echo 'hjkn'
+echo 'hjkn';
+echo 'hj';
 ?>
